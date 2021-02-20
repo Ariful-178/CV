@@ -65,7 +65,7 @@ body{
 .EDUCATION table{
 
     border: 1px solid slategray ;
-    width: 70%;
+    width: 90%;
     height: 200px;
 }
 table , th, td {
@@ -74,6 +74,7 @@ table , th, td {
     text-align: center;
     padding: 5px;
     border-collapse: collapse;
+    width: 33%;
 }
 th{
 
@@ -86,10 +87,10 @@ th{
 }
 .DEMO_WORK table {
 
-    width: 60%;
+    width: 90%;
 }
 .DEMO_WORK td {
-
+    width: 33%;
     padding: 15px;
 }
 .DEMO_WORK a {
