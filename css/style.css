@@ -1,0 +1,119 @@
+body{
+
+    max-width: 50%;
+    
+    margin: 0 auto;
+    margin-top: 40px;
+    
+    padding: 0;
+    border: 1px solid rgb(145, 144, 144);
+    margin-bottom: 50PX;
+
+}
+
+.top{
+
+    
+    display: inline-block;
+    width: 100%;
+}
+
+.photo img{
+
+
+    width: 180px;
+    float: right;
+    margin-right: 150px;
+    display: inline-block;
+    margin-top: 0px;
+    border: 1px solid rgb(175, 173, 173);
+}
+.photo{
+    width: 20%;
+    float: right;
+    margin-top: 0;
+}
+.address{
+
+    width: 40%;
+    float: left;
+    
+
+}
+.name{
+
+    width: 100%;
+  
+    
+}
+.padding_margin_left{
+    padding: 30px;
+    margin-top: 10px;
+}
+.Career_Objective{
+    padding-top: 0;
+}
+.Career_Objective_h{
+    padding-bottom: 0;
+}
+.un_list li{
+
+
+    margin-left:20px;
+    padding: 5px;
+}
+.EDUCATION table{
+
+    border: 1px solid slategray ;
+    width: 70%;
+    height: 200px;
+}
+table , th, td {
+
+    border: 1px solid black;
+    text-align: center;
+    padding: 5px;
+    border-collapse: collapse;
+}
+th{
+
+    padding: 10px;
+}
+.languages li {
+
+    padding: 5px;
+    font-size: 18px;
+}
+.DEMO_WORK table {
+
+    width: 60%;
+}
+.DEMO_WORK td {
+
+    padding: 15px;
+}
+.DEMO_WORK a {
+
+    text-decoration: none;
+}
+/* .ref1 {
+
+    
+    width: 50%;
+    
+    justify-content:space-around ;
+}
+.ref2 {
+    width: 50%;
+    
+} */
+.ref{
+    line-height: 30PX;
+    justify-content: space-between;
+    display: flex;
+    justify-content: space-evenly;
+}
+.line{
+    background-color: black;
+    width: 1px;
+}
